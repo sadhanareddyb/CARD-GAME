@@ -1,0 +1,23 @@
+{
+  "name": "-MS_Ms04_Pegasus_Tep_Hyderabad_2020_7",
+  "version": "1.0.0",
+  "description": "# RULES: War Card game Algorithm:",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/-MS_Ms04_Pegasus_Tep_Hyderabad_2020_7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/-MS_Ms04_Pegasus_Tep_Hyderabad_2020_7/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/-MS_Ms04_Pegasus_Tep_Hyderabad_2020_7#readme",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}
